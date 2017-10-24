@@ -1,4 +1,4 @@
-###随机生成n-m范围内的整数（不包含n和m）
+### 随机生成n-m范围内的整数（不包含n和m）
 ```javascript
 Math.round(Math.random()*(m-n)+n+1)
 
